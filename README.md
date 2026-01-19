@@ -25,7 +25,7 @@
 > [!WARNING]
 > This project is unfinished and in alpha - come help out!
 
-Docvi is a simple documentation tool because i didnt like [Sphinx](https://www.sphinx-doc.org) (but you might so go check it out)
+Docvi is a simple documentation tool because i didnt like [Sphinx](https://www.sphinx-doc.org) (but you might, so go check it out!)
 
 # Installation
 Unknown
