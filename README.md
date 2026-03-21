@@ -1,3 +1,6 @@
+> [!WARNING]
+> This project has moved to [sr.ht](sr.ht/~zevvi/docvi)
+
 <div align="center">
   <br>
   <h1>Docvi</h1>
