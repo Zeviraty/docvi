@@ -1,5 +1,5 @@
 > [!WARNING]
-> This project has moved to [sr.ht](sr.ht/~zevvi/docvi)
+> This project has moved to [sr.ht](https://sr.ht/~zevvi/docvi)
 
 <div align="center">
   <br>
